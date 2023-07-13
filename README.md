@@ -12,4 +12,4 @@
 
 # [Посмотреть сайт](https://natalia-orlova.github.io/HTML-CSS-homework7/)
 
-# Скрин версия для планшета![Скрин версии для планшета](https://github.com/Natalia-Orlova/HTML-CSS-homework7/assets/109914840/47e2907f-4927-42cb-b5da-f68155324ca0)
+# Скрин версии для планшета![Скрин версии для планшета](https://github.com/Natalia-Orlova/HTML-CSS-homework7/assets/109914840/47e2907f-4927-42cb-b5da-f68155324ca0)
