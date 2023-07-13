@@ -10,4 +10,4 @@
 
 3. Мобильную версию сайта создавать не нужно.
 
-#![Скрин версии для планшета](https://github.com/Natalia-Orlova/HTML-CSS-homework7/assets/109914840/47e2907f-4927-42cb-b5da-f68155324ca0)
+# Скрин версия для планшета![Скрин версии для планшета](https://github.com/Natalia-Orlova/HTML-CSS-homework7/assets/109914840/47e2907f-4927-42cb-b5da-f68155324ca0)
